@@ -1,5 +1,10 @@
-String fs
-fs = String.format("Hello world! " + %s);
-System.out.println(fs);
+// Sửa file bài 0
+public static void main(String[] args) {
 
+String fs;
+
+fs = String.format("Hello world! " + %s);
+
+System.out.println(fs);
+}
 
